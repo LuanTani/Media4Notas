@@ -21,3 +21,11 @@ Nota 3: 10,5
 Nota 4: 9,0
 
 Digite somente notas entre 0 e 10
+
+**Como executar**
+
+Acesse a pasta do projeto e digite:
+
+```
+dotnet run
+```
